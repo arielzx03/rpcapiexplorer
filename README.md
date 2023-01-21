@@ -116,8 +116,8 @@ nano ~/explorer/src/chains/mainnet/<CHAIN_NAME>.json
 ```
 {
     "chain_name": "planq",
-    "api": ["https://api-planq.sxlzptprjkt.xyz", "https://rest.planq.network"],
-    "rpc": ["https://rpc-planq.sxlzptprjkt.xyz", "https://rpc.planq.network"],
+    "api": ["https://api-planq.aoinode.my.id", "https://rest.planq.network"],
+    "rpc": ["https://rpc-planq.aoinode.my.id", "https://rpc.planq.network"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
