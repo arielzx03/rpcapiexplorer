@@ -80,7 +80,6 @@ nano /etc/nginx/sites-enabled/<DOMAIN_EXPLORER>.conf
 ```
 cp ~/explorer/ping.conf /etc/nginx/sites-enabled/<DOMAIN_EXPLORER>.conf
 ```
-```
 
 **Ubah nilai servername dari `_` domain explorer anda contoh `explorer.jembutmerah.dev`**
 ##### Test configurasi
