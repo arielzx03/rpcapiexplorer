@@ -100,7 +100,7 @@ sudo certbot --nginx --redirect
 ##### 1. Clone repo
 ```
 cd ~
-git clone https://github.com/ping-pub/explorer
+git clone https://github.com/AoiNode/explorer
 
 ```
 ##### 2. (Optional) Hapus semua konfigurasi yang ada
